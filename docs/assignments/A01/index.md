@@ -37,5 +37,6 @@ For the second task I had to research a physical product that meets both of the 
 A) I have decided to choose the clothespin. USPTO: US2471606A by Bruce Burns. 
 The primary function of the clothespin is to apply a clamping force to hold fabric against a clothesline. Using Mechanical energy it converts a applied force from the user at the handle ends into rotational motion about the spring that opens it and then produces a gripping force at the jaw ends when released
 
-B) 
+B) The primary behavior can be modeled using a simple lever relationship by using applied force and a spring force. (Force applied by the users fingers)(Distance from applied force to the pivot spring) = (Clamp force at jaw end)(Distance from the spring pivot to the jaws)
+Assumption: The spring is the restoring force that pushes the jaws back together after the user releases the handle. The clothespin arms can be treated as rigid members and friction at the pivot. 
 
