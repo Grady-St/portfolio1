@@ -1,6 +1,6 @@
 # A1 
 ---
-## Task A
+## Task A: Portfolio Analysis
 
 I have been tasked with finding two engineering portfolios online and to analyze each against the following functional requirements and document my findings on my A1 portfolio page.
 
@@ -22,8 +22,20 @@ https://github.com/SyedIhteshamuddin/Electrical-Engineering-Portfolio
 
 Navigability: All projects are separated into different folders, which makes it easy to move from one project to another. The organization of the projects allowed me to find a specific project fairly quickly without searching through one large document.
 
-Reproducibility: This portfolio includes useful information such as code, circuit pictures, components, and explanations. Using this information someone with an engineering background could recreate many of the projects without needing much additional information.
+Reproducibility: This portfolio also includes useful information such as code, circuit pictures, components, and explanations. Using this information someone with an engineering background could recreate many of the projects without needing much additional information.
 
-Evidence of Reasoning: The portfolio explains how the projects work and what components were used. However, it does not always explain why a specific component or design approach was chosen, so the reasoning behind some decisions is missing.
+Evidence of Reasoning: The portfolio explains how the projects work and what components were used. However in this case it does not always explain why a specific component or design approach was chosen, so the reasoning behind some decisions is missing and therefore could cause problems when trying to recreate.
 
 Professional Tone: The writing is straightforward and uses technical terms related to electrical engineering. The portfolio focuses on the work and the results instead of using unnecessary personal information, which makes it suitable for an employer to review.
+
+---
+## Task B: Product Analysis
+
+For the second task I had to research a physical product that meets both of the following constraints, primarily mechanical and it has three or fewer individual components. I also had to find the primary function, mechanical tasks, and then photograph and identify components.
+
+---
+A) I have decided to choose the clothespin. USPTO: US2471606A by Bruce Burns. 
+The primary function of the clothespin is to apply a clamping force to hold fabric against a clothesline. Using Mechanical energy it converts a applied force from the user at the handle ends into rotational motion about the spring that opens it and then produces a gripping force at the jaw ends when released
+
+B) 
+
