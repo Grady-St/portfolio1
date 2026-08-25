@@ -41,14 +41,17 @@ B) The primary behavior can be modeled using a simple lever relationship by usin
 Assumption: The spring is the restoring force that pushes the jaws back together after the user releases the handle. The arms can be treated as rigid members and friction at the pivot. 
 
 C)
+
 <img width="360" height="480" alt="3FC9B21C-0CDA-46B9-92EE-FD7D8F4DAE8B_4_5005_c" src="https://github.com/user-attachments/assets/78a749b6-217b-4357-af12-ef369b558c2b" />
 
 The upper and lower arms are both elongated so that the handle and gripping sections are separated from the pivot. This geometry allows different movement from arms on each side of the pivot, allowing the user to apply force farther from the pivot while the shorter jaw sections transfer that force into a clamping force. The two arms work together to form opposing jaws and provide the contact area that grips the fabric and clothesline as the clothespin opens and closes.
 
 <img width="700" height="590" alt="Screenshot 2026-08-24 at 8 17 03 PM" src="https://github.com/user-attachments/assets/f56232fa-e761-4b39-976c-9e9402284898" />
 
+The coil spring is positioned between the two arms and has two tabs that reach over top of both arms. The coil acts as the pivot and restoring element. Its geometry allows it to rotate as the handles are squeezed and store elastic energy. When the user force is removed, the spring returns toward its original position and pushes the jaws together. 
 
+d)
 
+Alternative Solutions: Two other devices that perform the same basic clamping function are a binder clip and a door handle spring. Both use mechanical spring forces to hold materials together in a specific manner, even though their geometries and methods of applying force are different. 
 
-
-
+Engineering Design Decision: One important design decision I saw was how the two elongated arms were used with a single coil spring. This geometry separates the handles from the jaws, creating different moments around the pivot. The user can apply force at the handles while the shorter jaw section produces a gripping force on the fabric. Just a simple three-component design thats still providing the required opening, closing, and clamping functions.
