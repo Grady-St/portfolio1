@@ -1,3 +1,3 @@
-# Portfolio Overview
+#Homepage
 
-This the portfolio Overview
+My engineering portfolio for ENGR 2156 is a record of my design projects and the work that goes into developing each solution. The portfolio is organized by project and then the different parts that went into the project, this is by design so that each part or design can be located very easily. This includes documentation showing the problem, design process, analysis, and final result. I hold this portfolio to a standard based on engineering practices so the work should be organized, technically accurate, and supported by evidence and reasoning. It is supposed to help the reader understand not only what was designed but also how and why.
