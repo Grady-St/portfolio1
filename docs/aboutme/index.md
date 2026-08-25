@@ -1,2 +1,9 @@
-#About Me
-This is how to edit
+About Me
+
+My name is Grady Stallings, and I am a mechanical engineering student at UNC Charlotte. I have wanted to pursue engineering for as long as I can remember, partly because my father is also a mechanical engineer. My interest in engineering grew even more throughout high school and my experiences working in various trades, including HVAC, construction, and landscaping. Working hands-on with equipment and designs gave me a perspective that I believe is valuable as an engineer. I often encountered designs that were unnecessarily complicated, difficult to install or maintain, or created problems for the people who had to work with them. These experiences made me realize that good engineering is not just about designing something that works it is about designing something that works efficiently, reliably, and practically.
+
+I have also seen components and systems fail repeatedly without meaningful changes being made to improve their design. It seemed that the focus was on finding the quickest or cheapest solution rather than developing a better long-term solution. Having been on the side of installation and maintenance, I understand how frustrating these designs can be. This is one of the reasons I chose mechanical engineering. I want to use my engineering knowledge and hands-on experience to redesign components and systems in ways that make installation, operation, and maintenance easier while improving reliability and functionality.
+
+Mechanical engineering has interested me since high school because it connects so many things that surround us. Roads, bridges, vehicles, machines, tools, and countless everyday products all depend on engineering principles to function properly. Understanding how these systems are designed and how individual components work together has always awed me. 
+
+I believe becoming a successful engineer requires more than technical knowledge. It requires teamwork, professional communication, attention to detail, adaptability, and the ability to learn from mistakes. My experiences working in the trades have taught me to look at engineering from a practical perspective and to consider the people who will ultimately build, operate, and maintain what is designed. 
