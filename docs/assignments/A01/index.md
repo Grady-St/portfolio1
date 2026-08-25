@@ -45,6 +45,7 @@ C)
 
 The upper and lower arms are both elongated so that the handle and gripping sections are separated from the pivot. This geometry allows different movement from arms on each side of the pivot, allowing the user to apply force farther from the pivot while the shorter jaw sections transfer that force into a clamping force. The two arms work together to form opposing jaws and provide the contact area that grips the fabric and clothesline as the clothespin opens and closes.
 
+<img width="700" height="590" alt="Screenshot 2026-08-24 at 8 17 03 PM" src="https://github.com/user-attachments/assets/f56232fa-e761-4b39-976c-9e9402284898" />
 
 
 
