@@ -31,6 +31,16 @@ The final truss design uses two diagonal members to create an X-braced configura
 I made this decision so the truss could be analyzed so all unknown support reactions and internal forces can be completely calculated using the method of joints and equation of equilibriums. If the crossing location were converted into an additional pinned joint, the number of members and unknown forces would change and a more advanced analysis method could be required.
 
 
+<img width="716" height="371" alt="Screenshot 2026-08-31 at 9 24 03 PM" src="https://github.com/user-attachments/assets/481cf25b-66bb-4df3-9486-0940d3b15ec8" />
+
+Pictured here is the free body diagram of joints C and D
+
+
+
+<img width="716" height="550" alt="Screenshot 2026-08-31 at 9 26 08 PM" src="https://github.com/user-attachments/assets/d4f36d9a-2e13-4e88-8ce5-c9afd703e1a5" />
+
+For these calculations, the two diagonal members are assumed to cross without being pinned together at the intersection. The intersection is simply where the members pass each other geometrically. If you connect the two diagonal members with an additional pin at the center, the truss becomes a different structural model and the internal force calculations would need to be changed.
+
 
 
 
