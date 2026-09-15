@@ -40,9 +40,7 @@ I then used Creo to create the final motor mount based on the calculated dimensi
 
 CREO file
 
-
-
-
+[motormount.prt.zip](https://github.com/user-attachments/files/32221675/motormount.prt.zip)
 
 
 The motor mount was designed using PETG and modeled as a combination of cantilever beam sections. The thicknesses of the two primary features were selected based on both bending stress and maximum deflection. The deflection requirement controlled the final thickness because it required a larger cross section than the strength calculation. Triangular sections were added between the base and vertical motor plate to increase stiffness and reduce bending deflection. Clearance holes were included for the wall-mounting bolts as specified in the assignment (3.4mm).
