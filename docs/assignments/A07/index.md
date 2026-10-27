@@ -30,6 +30,8 @@ I repeated the coarse-, medium-, and fine-mesh simulations and compared the resu
 Mesh Results
 <img width="968" height="162" alt="Screenshot 2026-10-27 at 1 19 53 AM" src="https://github.com/user-attachments/assets/37660628-e15d-4e7c-916e-94eb99222c70" />
 
+# Reflect
+
 Lessons Learned
 
 This project showed me how strongly mesh refinement can affect finite element results. In these simulations, smaller elements generally produced higher maximum-stress and deflection values, while the calculated safety factor decreased. Comparing coarse, medium, and fine meshes helped me understand why mesh convergence should be checked before using results to make design decisions. I also gained experience applying FEA results to guide successive geometry changes, including adding support features and diagonal bracing.
